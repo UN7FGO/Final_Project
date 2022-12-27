@@ -2,8 +2,11 @@
 
 Данная работа необходима для проверки моих знаний и навыков по итогу прохождения первого блока обучения на программе Разработчик.
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-## Для олноценного выполнения проверочной работы необходимо:
+## Для полноценного выполнения проверочной работы необходимо:
 
 1. Создать репозиторий на GitHub
 2. Нарисовать блок-схему алгоритма (можно обойтись блок-схемой основной содержательной части, если вы выделяете её в отдельный метод)
