@@ -21,4 +21,8 @@
 Блок-схема алгоритма решения задачи, приложена в соответствующем графическом файле.
 
 
+<p style="text-align: center;">
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+</p>
